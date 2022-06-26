@@ -1,0 +1,1 @@
+# zabbix60_event_escalator
